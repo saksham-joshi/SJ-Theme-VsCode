@@ -55,5 +55,10 @@
     "aqua theme",
     "blue theme",
     "sky blue theme"
-  ]
+  ],
+  "pricing": "Free",
+  "icon": "images/sj-theme-rounded-logo.png",
+  "sponsor": {
+    "url": "https://github.com/sponsors/saksham-joshi"
+  }
 }
