@@ -1,0 +1,48 @@
+{
+  "name": "sj-theme",
+  "displayName": "SJ Theme",
+  "description": "A beautiful azure-theme extension, easy for eyes and psychologically relaxing",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SJ Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SJ-color-theme.json"
+      },
+      {
+        "label": "SJ Theme (Italic)",
+        "path": "./themes/SJ-color-theme-italic.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#24aedd",
+    "theme": "dark"
+  },
+  "bugs": {
+    "email": "social.sakshamjoshi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saksham-joshi/SJ-Theme-VsCode.git"
+  },
+  "homepage": "README.md",
+  "keywords": [
+    "themes",
+    "vs code theme",
+    "dark theme",
+    "SJ",
+    "sj-theme",
+    "theme",
+    "color theme",
+    "popular theme"
+  ]
+}
