@@ -1,8 +1,13 @@
 {
-  "name": "sj-theme",
-  "displayName": "SJ Theme",
+  "name": "sj-azure-theme",
+  "displayName": "SJ Azure Theme",
   "description": "A beautiful azure-theme extension, easy for eyes and psychologically relaxing",
   "version": "0.0.1",
+  "publisher": "SAKSHAMJOSHI",
+  "author": {
+    "name": "SakshamJoshi",
+    "email": "social.sakshamjoshi@gmail.com"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
@@ -43,6 +48,12 @@
     "sj-theme",
     "theme",
     "color theme",
-    "popular theme"
+    "popular theme",
+    "sj azure theme",
+    "azure theme",
+    "cyan theme",
+    "aqua theme",
+    "blue theme",
+    "sky blue theme"
   ]
 }
