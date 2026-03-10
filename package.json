@@ -2,14 +2,14 @@
   "name": "sj-azure-theme",
   "displayName": "SJ Azure Theme",
   "description": "A beautiful azure-theme extension, easy for eyes and psychologically relaxing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "SAKSHAMJOSHI",
   "author": {
     "name": "SakshamJoshi",
     "email": "social.sakshamjoshi@gmail.com"
   },
   "engines": {
-    "vscode": "^1.110.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
