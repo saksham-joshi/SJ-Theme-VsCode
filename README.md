@@ -9,7 +9,7 @@
 <br/>
 
 [![Theme Color](https://img.shields.io/badge/Theme_Color-%2324aedd-24aedd?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=saksham-joshi.sj-theme)
-[![VS Code](https://img.shields.io/badge/VS_Code-Install-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=saksham-joshi.sj-theme)
+[![VS Code](https://img.shields.io/badge/VS_Code-Install-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=SAKSHAMJOSHI.sj-azure-theme)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saksham-joshi/SJ-Theme-VsCode)
 
 <img src="./images/animated-line.gif">
@@ -53,7 +53,7 @@
 
 ### Via Command Line
 ```bash
-code --install-extension saksham-joshi.sj-theme
+code --install-extension SAKSHAMJOSHI.sj-azure-theme
 ```
 
 ---
