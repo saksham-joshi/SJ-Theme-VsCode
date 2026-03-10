@@ -64,7 +64,7 @@ code --install-extension SAKSHAMJOSHI.sj-azure-theme
 |----------|-------|
 | **Primary Color** | `#24aedd` |
 | **Type** | Dark Theme |
-| **Optimized For** | JavaScript, TypeScript, Python, C++, Java |
+| **Optimized For** | All File Formats |
 
 ---
 
