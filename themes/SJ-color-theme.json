@@ -44,7 +44,7 @@
 		// 
 		// Find Match
 		// 
-		"editor.findMatchBackground": "#ffc41044",
+		"editor.findMatchBackground": "#ffffff00",
 		"editor.findMatchBorder": "#ffc410",
 		"editor.findMatchHighlightBackground": "#24aedd33",
 		"editor.findMatchHighlightBorder": "#24aedd00",
@@ -53,7 +53,7 @@
 		// 
 		"editor.findRangeHighlightBackground": "#24aedd18",
 		"editor.findRangeHighlightBorder": "#ffffff00",
-		"editor.rangeHighlightBackground": "#091827",
+		"editor.rangeHighlightBackground": "#09182744",
 		"editor.rangeHighlightBorder": "#24aedd44",
 		// 
 		// editor hover highlight
@@ -69,6 +69,8 @@
 		// 
 		"editorIndentGuide.background": "#1e3a4f",
 		"editorIndentGuide.activeBackground": "#24aedd55",
+		"editorIndentGuide.background1" : "#1e3a4f",
+		"editorIndentGuide.activeBackground1": "#24aedd55",
 		// 
 		// editor fold background
 		// 
@@ -327,8 +329,8 @@
 		"merge.currentContentBackground": "#4ec99422",
 		"merge.incomingHeaderBackground": "#24aedd44",
 		"merge.incomingContentBackground": "#24aedd22",
-		"merge.commonHeaderBackground": "#1e3a4f",
-		"merge.commonContentBackground": "#122435",
+		"merge.commonHeaderBackground": "#1e3a4f88",
+		"merge.commonContentBackground": "#12243566",
 		// 
 		// editor suggest widget
 		// 
