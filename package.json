@@ -2,7 +2,7 @@
   "name": "sj-azure-theme",
   "displayName": "SJ Azure Theme",
   "description": "A beautiful azure-theme extension, easy for eyes and psychologically relaxing",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "publisher": "SAKSHAMJOSHI",
   "author": {
     "name": "SakshamJoshi",
@@ -23,8 +23,13 @@
       },
       {
         "label": "SJ Theme (Italic)",
-        "path": "./themes/SJ-color-theme-italic.json",
-        "uiTheme": "vs-dark"
+        "uiTheme": "vs-dark",
+        "path": "./themes/SJ-color-theme-italic.json"
+      },
+      {
+        "label" : "SJ CyberPunk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SJ-cyberpunk-theme.json"
       }
     ]
   },
