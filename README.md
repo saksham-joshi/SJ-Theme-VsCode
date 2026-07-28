@@ -10,6 +10,7 @@
 
 [![Theme Color](https://img.shields.io/badge/Theme_Color-%2324aedd-24aedd?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=saksham-joshi.sj-theme)
 [![Theme Color](https://img.shields.io/badge/Theme_Color-%23FF2DAA-FF2DAA?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=saksham-joshi.sj-theme)
+[![Theme Color](https://img.shields.io/badge/Theme_Color-%238f80cd-8f80cd?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=saksham-joshi.sj-theme)
 
 [![VS Code](https://img.shields.io/badge/VS_Code-Install-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=SAKSHAMJOSHI.sj-azure-theme)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saksham-joshi/SJ-Theme-VsCode)
@@ -24,6 +25,9 @@
 
 <div align="center">
 
+#### 💜 SJ Purple Goddess 💛
+![Preview 2](images/preview4.png)
+
 #### 💙 SJ Azure Theme 🩵
 ![Preview 1](images/preview1.png)
 
@@ -32,6 +36,7 @@
 
 #### 💙 SJ Azure Theme Italic 🩵
 ![Preview 2](images/preview2.png)
+
 
 
 </div>
@@ -78,7 +83,8 @@ code --install-extension SAKSHAMJOSHI.sj-azure-theme
 
 ## 📃 Credits
 
-- The SJ CyberPunk Theme is inspired/adjusted by [Endormi]( https://github.com/endormi/vscode-2077-theme)'s 2077 theme available at [VsCode-Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme).
+- The SJ CyberPunk Theme is inspired/adjusted from [Endormi]( https://github.com/endormi/vscode-2077-theme)'s 2077 theme available at [VsCode-Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme).
+- The SJ Purple Goddess is highly inspired/adjusted from [Admad Wais](https://github.com/ahmadawais)'s Shades of Purple Super Dark theme available at [VsCode-Marketplace](https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/themes/shades-of-purple-color-theme-super-dark.json).
 
 
 ---
