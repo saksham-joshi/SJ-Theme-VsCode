@@ -43,13 +43,18 @@
 
 ---
 
-## ✨ Features
+## 🎨 Theme Specifications
 
-- 🎨 **Vibrant Colors** - Carefully selected color palette for optimal readability
-- 👁️ **Eye Comfort** - Designed to reduce eye strain during long coding sessions
-- 🌈 **Syntax Highlighting** - Enhanced syntax highlighting for better code comprehension
-- ⚡ **Modern Design** - Clean and contemporary aesthetic
-- 🎯 **Theme Color** - Primary accent: `#24aedd`
+| Property | Value |
+|----------|-------|
+| **Type** | Dark Theme |
+| **Azure Theme** | `#24aedd` |
+| **Cyberpunk Theme** | `#ff2daa` |
+| **Purple Goddess Theme** | `#8f80cd` |
+| **Eye Comfort** | `100%` |
+| **Syntax Highlighting** | `Perfect` |
+| **Code Readability** | `Very High` |
+| **Optimized For** | `All File Formats` |
 
 ---
 
@@ -67,17 +72,6 @@
 ```bash
 code --install-extension SAKSHAMJOSHI.sj-azure-theme
 ```
-
----
-
-## 🎨 Theme Specifications
-
-| Property | Value |
-|----------|-------|
-| **Primary Color** | `#24aedd` |
-| **Secondary Color** | `#ff2daa` |
-| **Type** | Dark Theme |
-| **Optimized For** | All File Formats |
 
 ---
 
