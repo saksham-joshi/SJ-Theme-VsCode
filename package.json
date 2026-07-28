@@ -2,11 +2,12 @@
   "name": "sj-azure-theme",
   "displayName": "SJ Azure Theme",
   "description": "A beautiful azure-theme extension, easy for eyes and psychologically relaxing",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "SAKSHAMJOSHI",
   "author": {
     "name": "SakshamJoshi",
-    "email": "social.sakshamjoshi@gmail.com"
+    "email": "social.sakshamjoshi@gmail.com",
+    "url": "https://sakshamjoshi.vercel.app"
   },
   "engines": {
     "vscode": "^1.0.0"
@@ -17,6 +18,16 @@
   "contributes": {
     "themes": [
       {
+        "label": "SJ Purple Goddess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SJ-purple-goddess.json"
+      },
+      {
+        "label" : "SJ CyberPunk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SJ-cyberpunk-theme.json"
+      },
+      {
         "label": "SJ Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/SJ-color-theme.json"
@@ -25,11 +36,6 @@
         "label": "SJ Theme (Italic)",
         "uiTheme": "vs-dark",
         "path": "./themes/SJ-color-theme-italic.json"
-      },
-      {
-        "label" : "SJ CyberPunk Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/SJ-cyberpunk-theme.json"
       }
     ]
   },
@@ -59,7 +65,12 @@
     "cyan theme",
     "aqua theme",
     "blue theme",
-    "sky blue theme"
+    "sky blue theme",
+    "purple theme",
+    "purple gold theme",
+    "purple theme",
+    "SJ purple",
+    "SJ purple theme"
   ],
   "pricing": "Free",
   "icon": "images/sj-theme-rounded-logo.png",
