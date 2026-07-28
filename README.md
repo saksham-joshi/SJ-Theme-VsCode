@@ -13,7 +13,7 @@
 [![Theme Color](https://img.shields.io/badge/Theme_Color-%238f80cd-8f80cd?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=saksham-joshi.sj-theme)
 
 [![VS Code](https://img.shields.io/badge/VS_Code-Install-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=SAKSHAMJOSHI.sj-azure-theme)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/saksham-joshi/SJ-Theme-VsCode)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-7d278e?style=for-the-badge&logo=github)](https://github.com/saksham-joshi/SJ-Theme-VsCode)
 
 <img src="./images/animated-line.gif">
 
@@ -101,7 +101,7 @@ code --install-extension SAKSHAMJOSHI.sj-azure-theme
 
 ### Saksham Joshi
 
-[![GitHub](https://img.shields.io/badge/GitHub-saksham--joshi-181717?style=for-the-badge&logo=github)](https://github.com/saksham-joshi)
+[![GitHub](https://img.shields.io/badge/GitHub-saksham--joshi-7d278e?style=for-the-badge&logo=github)](https://github.com/saksham-joshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshamjoshi27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24aedd?style=for-the-badge&logo=About.me)](https://sakshamjoshi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:social.sakshamjoshi@gmail.com)
