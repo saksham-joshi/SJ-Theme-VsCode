@@ -97,7 +97,7 @@ code --install-extension SAKSHAMJOSHI.sj-azure-theme
 
 [![GitHub](https://img.shields.io/badge/GitHub-saksham--joshi-7d278e?style=for-the-badge&logo=github)](https://github.com/saksham-joshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshamjoshi27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24aedd?style=for-the-badge&logo=About.me)](https://sakshamjoshi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24aedd?style=for-the-badge&logo=About.me)](https://sakshamjoshi.com)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:social.sakshamjoshi@gmail.com)
 
 </td>
