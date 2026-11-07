@@ -29,13 +29,10 @@
 ![Preview 2](images/preview4.png)
 
 #### 💙 SJ Azure Theme 🩵
-![Preview 1](images/preview1.png)
+![Preview 1](images/preview2.png)
 
 #### 🩵 SJ CyberPunk Theme 🩷
 ![Preview 3](images/preview3.png)
-
-#### 💙 SJ Azure Theme Italic 🩵
-![Preview 2](images/preview2.png)
 
 
 
